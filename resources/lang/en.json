@@ -1,0 +1,21 @@
+{
+    "categories": "Categories",
+    "category": "Category",
+    "home": "Home",
+    "search": "Search",
+    "order_now": "Order Now",
+    "cancel": "Cancel",
+    "sorry": "Sorry",
+    "your_name": "Your Name",
+    "enter_your_name": "Enter Your Name",
+    "enter_your_full_address": "Enter Your Full Address",
+    "enter_your_district_police_station_and_market_name": "Enter Your District, Police Station and Market Name",
+    "loading": "Loading",
+    "order_processing": "Order Processing",
+    "order_placed_successfully": "Order Placed Successfully",
+    "your_order_id_is": "Your Order ID is",
+    "we_will_contact_you_soon": "We will contact you soon",
+    "your_mobile_number": "Your Mobile Number",
+    "sorry_something_went_wrong": "Sorry, Something went wrong",
+    "okay": "Okay"
+}

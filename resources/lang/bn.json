@@ -1,0 +1,21 @@
+{
+    "categories": "ক্যাটাগরি সমূহ",
+    "category": "ক্যাটাগরি",
+    "home": "হোম",
+    "search": "অনুসন্ধান",
+    "order_now": "অর্ডার করুন",
+    "cancel": "বাতিল",
+    "sorry": "দুঃখিত",
+    "your_name": "আপনার নাম",
+    "enter_your_name": "আপনার নাম লিখুন",
+    "enter_your_full_address": "আপনার সম্পূর্ণ ঠিকানা লিখুন",
+    "enter_your_district_police_station_and_market_name": "আপনার জেলা, থানা ও বাজারের নাম লিখুন",
+    "loading": "লোড হচ্ছে",
+    "order_processing": "অর্ডার প্রসেসিং হচ্ছে",
+    "order_placed_successfully": "অর্ডার সফলভাবে সম্পন্ন হয়েছে",
+    "your_order_id_is": "আপনার অর্ডার আইডি",
+    "we_will_contact_you_soon": "খুব শীঘ্রই আপনার সাথে যোগাযোগ করা হবে।",
+    "your_mobile_number": "আপনার মোবাইল নাম্বার",
+    "sorry_something_went_wrong": "দুঃখিত, কিছু একটা সমস্যা হচ্ছে",
+    "okay" : "ঠিক আছে"
+}
