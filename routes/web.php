@@ -64,6 +64,6 @@ Route::middleware([
 Route::get('/', [FrontendController::class, 'index']);
 
 // Product Landing Page in a route group with prefix 'products' and controller "LandingPageController"
-Route::group(['prefix' => 'landing', 'as' => 'landing.'], function () {
+Route::group(['prefix' => 'products', 'as' => 'landing.'], function () {
     Route::get('/jhilmil-gyanbox', [LandingPageController::class, 'jhilmilGyanbox'])->name('jhilmil-gyanbox');
 });

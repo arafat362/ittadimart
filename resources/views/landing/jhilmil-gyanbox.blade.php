@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ঝিলমিল জ্ঞানবাক্স - Ittadi Mart</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="{{ asset('assets/css/hind-siliguri.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('landing/css/jhilmil-gyanbox.css') }}">
 </head>
 
@@ -21,7 +21,7 @@
             </div>
 
             <h2 class="subheading-title orange">"ঝিলমিল জ্ঞানবাক্স সোনামনিদের শেখার শুরু (১৬ টি বই)"</h2>
-            <h2 class="subheading-title brown">সাথে ১২ টি ফ্ল্যাশ কার্ড ও একটি বই সম্পূর্ণ ফ্রি</h2>
+            <h2 class="subheading-title brown">সাথে ১২ টি ফ্ল্যাশ কার্ড সম্পূর্ণ ফ্রি</h2>
             <h2 class="subheading-title red">সারা বাংলাদেশে ফ্রি ডেলিভারি</h2>
 
             <img src="{{ asset('landing/images/featured-photo.png') }}" alt="" class="product-feature mb-5" alt="ঝিলমিল জ্ঞানবাক্স">
@@ -49,7 +49,7 @@
                     <iframe id="youtube_video" style="display: none;"
                         src="https://www.youtube.com/embed/ZJPIr2yTKws?modestbranding=1&showinfo=0&rel=0"
                         title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;"
                         allowfullscreen></iframe>
                 </div>
             </div>
@@ -315,7 +315,7 @@
     </footer>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
 
     <script>
         $(document).ready(function () {
