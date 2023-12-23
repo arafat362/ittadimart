@@ -76,7 +76,7 @@
             </h2>
             <h2 class="free-delivery mt-3">সারাদেশে ফ্রি ডেলিভারি</h2>
             <a href="#order_now" class="btn btn-order">বইগুলো অর্ডার করতে চাই</a>
-            <h2 class="call"><a href="tel:01320729696">কল করুন : </a><a href="tel:01320729696">01320729696</a></h2>
+            <h2 class="call"><a href="tel:01304154445 ">কল করুন : </a><a href="tel:01304154445 ">01304154445 </a></h2>
         </div>
     </div>
 
