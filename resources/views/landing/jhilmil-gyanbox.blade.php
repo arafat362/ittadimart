@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="row">
-                    <h3 id="your_products_heading"> Your Products </h3>
+                    <h3 id="your_products_heading">প্রোডাক্ট নির্বাচন করুন</h3>
 
                     <div class="row">
 
@@ -240,17 +240,17 @@
                             <tfoot>
 
                                 <tr class="cart-subtotal">
-                                    <th>Subtotal</th>
+                                    <th>মোট</th>
                                     <td><span class="amount"><bdi><span class="">৳&nbsp;</span>790.00</bdi></span></td>
                                 </tr>
 
                                 <tr class="shipping-totals shipping">
-                                    <th>Shipping</th>
-                                    <td>Free Delivery</td>
+                                    <th>শিপিং</th>
+                                    <td>ফ্রি ডেলিভারি</td>
                                 </tr>
 
                                 <tr class="order-total">
-                                    <th>Total</th>
+                                    <th>সর্বমোট</th>
                                     <td><strong><span class="amount"><bdi><span class="">৳&nbsp;</span>790.00</bdi></span></strong></td>
                                 </tr>
 
@@ -260,7 +260,7 @@
 
 
                         <div class="checkout-payment">
-                            <label for="payment_method_cod">Cash on delivery</label>
+                            <label for="payment_method_cod">ক্যাশ অন ডেলিভারি</label>
                             <div class="payment_box payment_method_cod">
                                 <p>এক টাকাও অগ্রীম পেমেন্ট করতে হবে না। হাতে পেয়ে কোয়ালিটি যাচাই করে মূল্য পরিশোধ করতে পারবেন। প্রোডাক্ট পছন্দ না হলে বিনাশর্তে এবং কোনো পেমেন্ট ছাড়াই রিটার্ন করতে পারবেন।</p>
                             </div>
